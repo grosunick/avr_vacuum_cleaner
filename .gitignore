@@ -2,3 +2,4 @@
 .vscode
 .idea
 include/ng_avr
+include/connectors
